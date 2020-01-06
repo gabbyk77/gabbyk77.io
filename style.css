@@ -29,11 +29,6 @@ img.sonic:active {
     color: white;
     transition: transform 1s, width 1s, height 1s;
 }
-.square:hover {
-  width: 800px;
-  height: 500px;
-  transition: height 1s, width 1s, filter 1s;
-}
 .square:active {
     transform: rotate(360deg);
     width: 200px;
